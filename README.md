@@ -5,7 +5,7 @@ The project accepts any user-supplied image as input. If a dog is detected in th
 
 The image below displays potential sample output of the project.  
 
-                                            ![Sample Dog Output](images/sample_dog_output.png)
+![Sample Dog Output](images/sample_dog_output.png)
 
 ### Tasks  
 
