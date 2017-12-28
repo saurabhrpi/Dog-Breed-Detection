@@ -44,4 +44,23 @@ This project requires **Python 2.7** and the following Python libraries installe
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 
-You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
+You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)  
+
+### Code
+
+Main code is provided in the `dog_app.ipynb` notebook file. The images folder containes images on which the training and testing was conducted. 
+
+### Run
+
+In a terminal or command window, navigate to the top-level project directory `customer_segments/` (that contains this README) and run one of the following commands:
+
+```bash
+ipython notebook dog_app.ipynb
+```  
+or
+```bash
+jupyter notebook dog_app.ipynb
+```
+
+This will open the Jupyter Notebook software and project file in your browser.
+
